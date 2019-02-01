@@ -42,9 +42,7 @@ foreach ($Item in $Computers) {
     Write-Host $("-" * $temp)
     if((Test-Connection -ComputerName $Computer -count 1 -ErrorAction 0)) { 
         $Connection="ONLINE"; Write-Host "$Computer is Online`n" -ForegroundColor Green
-    } else {
-        Write-Host "$Computer is OFFLINE" -ForegroundColor Red
-    }
+    } else { Write-Host "$Computer is OFFLINE" -ForegroundColor Red }
 
     <#---------------------------
         Attempt Password Change
