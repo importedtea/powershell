@@ -1,1 +1,2 @@
 VeryImportantServer01
+VeryImportantServer02
