@@ -64,7 +64,7 @@ Add a variable for Classrooms for easy change of directory name; plus the word i
 Condense static variables into one location for ease of use
 
 .LINK
-    https://www.github.com/importedtea/powershell/Remote_Tools/Inventory
+    https://github.com/importedtea/powershell/tree/master/Remote_Tools/Inventory
 #>
 
 param (
