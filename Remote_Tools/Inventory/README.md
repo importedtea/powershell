@@ -1,10 +1,10 @@
-# Get-Inventory
+# Litter-Box
 
 ## Startup
 
 1. Clone this repo
 2. Navigate to repo
-3. Execute .\Get-Inventory.ps1
+3. Execute .\Litter-Box.ps1
 4. Follow script instructions
 
 ## The Specifics
